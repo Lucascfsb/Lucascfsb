@@ -10,24 +10,24 @@
 #   python -m generator.main --demo
 
 # Your GitHub username (required)
-username: galaxy-dev
+username: Lucascfsb
 
 # Profile information displayed in the galaxy header
 profile:
-  name: "Nyx Orion"
-  tagline: "Full Stack Developer & Open Source Explorer"
-  company: "Stellar Labs"
-  location: "San Francisco, CA"
+  name: "Lucas C Fernandes"
+  tagline: "Full Stack Developer & AI Enthusiast"
+  company: "Exército Brasileiro"
+  location: "Rio de Janeiro, Brazil"
   bio: |
-    Building tools that make developers' lives easier.
-    Passionate about distributed systems, developer experience, and the open-source ecosystem.
-  philosophy: '"The best code is the code that empowers others."'
+    Criando ferramentas que facilitam a vida dos desenvolvedores.
+    Apaixonado por sistemas distribuídos, experiência do desenvolvedor e o ecossistema de código aberto.
+  philosophy: '"O melhor código é aquele que ajuda os outros."'
 
 # Social links displayed at the bottom of the profile
 social:
-  email: "nyx@stellarlabs.dev"
-  linkedin: "nyxorion"
-  website: "https://nyxorion.dev"
+  email: "lucascfsb@gmail.com"
+  linkedin: "lucascfsb"
+  website: "https://lucascfsb.dev"
 
 # Galaxy arms represent your core focus areas
 # Each arm spirals out from the center with its own color and tech items
@@ -58,12 +58,12 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
-  - repo: "galaxy-dev/nebula-ui"
+  - repo: "galaxy-dev/autoU-email"
     arm: 0
-    description: "A component library with cosmic design tokens and dark-first theming."
-  - repo: "galaxy-dev/stargate-api"
+    description: "An email verification and response generation tool, based on the email, with AI."
+  - repo: "galaxy-dev/cart-ai"
     arm: 1
-    description: "High-performance API gateway with built-in observability and caching."
+    description: "An AI-powered shopping cart builder based on revenue."
 
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
