@@ -35,7 +35,10 @@
 
 Passionate about distributed systems, developer experience, and the open-source ecosystem.
 
+[**Portfolio**](https://portfolio-lucas-steel.vercel.app/)
+
 **Currently at** Exército Brasileiro
+
 </details>
 
 <br/>
