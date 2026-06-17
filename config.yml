@@ -60,7 +60,7 @@ galaxy_arms:
 #   description: "..."        — Short description shown on the card
 projects:
   - repo: "galaxy-dev/autoU-email"
-    arm: 0-1
+    arm: 1
     description: "An email verification and response generation tool, based on the email, with AI."
   - repo: "galaxy-dev/quickList"
     arm: 0
@@ -69,7 +69,7 @@ projects:
     arm: 0
     description: "A web application to generate random numbers within a custom range."
   - repo: "galaxy-dev/ClipMaker"
-    arm: 1-2
+    arm: 1
     description: "To work as a Full Stack Developer, contributing leadership experience, resilience, and complex problem-solving to scalable teams and systems."
   - repo: "galaxy-dev/pet-scheduling"
     arm: 0
