@@ -305,7 +305,7 @@ def render(projects: list, galaxy_arms: list, theme: dict) -> str:
     """
     all_arm_colors = resolve_arm_colors(galaxy_arms, theme)
 
-    n = min(len(projects), 3)
+    n = min(len(projects), 6)
 
     if n == 0:
         # No projects — render an empty card
